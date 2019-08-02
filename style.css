@@ -1,0 +1,15 @@
+body{
+    width: 100%;
+    margin: 30%;
+    background-color: antiquewhite;
+}
+
+#profile-container{
+    max-width: 300px;
+    background-color: white;
+    border-radius: 6px;
+}
+
+#profile-name{
+    text-align: center;
+}
