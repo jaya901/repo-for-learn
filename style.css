@@ -22,6 +22,7 @@ body{
 #footer{
     width: 100%;
     height: 50px;
+    position: absolute;
     line-height: 50px;
     background-color: burlywood;
     text-align: center;
